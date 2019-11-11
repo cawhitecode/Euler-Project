@@ -1,4 +1,5 @@
 // github.com/cawhitecode
+// Chris White
 
 // https://projecteuler.net/problem=1
 
